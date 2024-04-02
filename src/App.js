@@ -1,21 +1,22 @@
-import logo from './logo.svg';
+import logo from './owl.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h5>ISHA</h5>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <i>
+          Coding like poetry should be short and concise
+        </i>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn From Me
         </a>
       </header>
     </div>
